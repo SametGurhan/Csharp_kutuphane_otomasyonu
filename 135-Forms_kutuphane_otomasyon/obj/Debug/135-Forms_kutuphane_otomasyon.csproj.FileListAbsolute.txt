@@ -1,0 +1,12 @@
+C:\Users\samet\Desktop\ConsoleAppDersleri\135-Forms_kutuphane_otomasyon\bin\Debug\135-Forms_kutuphane_otomasyon.exe.config
+C:\Users\samet\Desktop\ConsoleAppDersleri\135-Forms_kutuphane_otomasyon\bin\Debug\135-Forms_kutuphane_otomasyon.exe
+C:\Users\samet\Desktop\ConsoleAppDersleri\135-Forms_kutuphane_otomasyon\bin\Debug\135-Forms_kutuphane_otomasyon.pdb
+C:\Users\samet\Desktop\ConsoleAppDersleri\135-Forms_kutuphane_otomasyon\obj\Debug\135-Forms_kutuphane_otomasyon.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\ConsoleAppDersleri\135-Forms_kutuphane_otomasyon\obj\Debug\_135_Forms_kutuphane_otomasyon.Form1.resources
+C:\Users\samet\Desktop\ConsoleAppDersleri\135-Forms_kutuphane_otomasyon\obj\Debug\_135_Forms_kutuphane_otomasyon.Properties.Resources.resources
+C:\Users\samet\Desktop\ConsoleAppDersleri\135-Forms_kutuphane_otomasyon\obj\Debug\135-Forms_kutuphane_otomasyon.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\ConsoleAppDersleri\135-Forms_kutuphane_otomasyon\obj\Debug\135-Forms_kutuphane_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\ConsoleAppDersleri\135-Forms_kutuphane_otomasyon\obj\Debug\135-Forms_kutuphane_otomasyon.exe
+C:\Users\samet\Desktop\ConsoleAppDersleri\135-Forms_kutuphane_otomasyon\obj\Debug\135-Forms_kutuphane_otomasyon.pdb
+C:\Users\samet\Desktop\ConsoleAppDersleri\135-Forms_kutuphane_otomasyon\obj\Debug\_135_Forms_kutuphane_otomasyon.AdminSayfasi.resources
+C:\Users\samet\Desktop\ConsoleAppDersleri\135-Forms_kutuphane_otomasyon\obj\Debug\_135_Forms_kutuphane_otomasyon.UyeSayfasi.resources
